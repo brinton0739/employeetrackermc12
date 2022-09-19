@@ -1,6 +1,9 @@
 # employeetrackermc12
 
-## Description[Untitled_ Sep 19, 2022 3_17 PM.webm](https://user-images.githubusercontent.com/103536550/191125750-c338510d-e283-4ded-a7fd-473693df5f58.webm)
+## Description
+
+[Untitled_ Sep 19, 2022 3_17 PM.webm](https://user-images.githubusercontent.com/103536550/191125865-1d35c79a-0a85-46ba-a8a8-a9e78de43926.webm)
+
 
 
 a command line promp mysql based application that keeps track of employees, managers, departments, salaries, and roles in a company
